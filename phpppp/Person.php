@@ -38,8 +38,7 @@ echo $member2->name;
 echo"<br>";
 echo $member3->name;
 
-//set_email();
-//get_email();
+
 
 ?>
 
